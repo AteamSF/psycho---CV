@@ -4,7 +4,7 @@ Converting regular images into array (Numpy) format.
 
 step:1  Choose the image you want to convert into array format.
 step:2  Provide its path to for it to be readable by the code. 
-step:3  If you want the image to be imported into gray code, use 0 at the end or 1 if you want it to be in original formal.
+step:3  If you want the image to be imported into gray code, use 0 at the end or 1 if you want it to be in original format.
 step:4  running this portion of the code will give you the array of the image you provide. 
 
 
